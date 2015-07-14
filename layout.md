@@ -1,2 +1,3 @@
 2.tex
 5.tex
+figures/TWO_Robot_BEACON_Distance/TWO_Robot_BEACON_Distance.png
